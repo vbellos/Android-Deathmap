@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "6873455734",
+    "firebase_url": "https://deathmap-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "deathmap",
+    "storage_bucket": "deathmap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6873455734:android:2f52f764c3f769bf3cd357",
+        "android_client_info": {
+          "package_name": "com.vbellos.deathmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6873455734-rlnfut8tuguqcsddb5ajd2i74c0saoaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfeSA55LOJyVioWOlozXHZ8qXTyzLUeIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6873455734-rlnfut8tuguqcsddb5ajd2i74c0saoaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
